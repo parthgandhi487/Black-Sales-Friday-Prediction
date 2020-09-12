@@ -1,5 +1,9 @@
 ## Black-Sales-Friday-Prediction
 
+
+AV LeaderBoardScore : 2546.43
+Rank : 507
+
 ## Problem Statement
 
 A retail company “ABC Private Limited” wants to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories. They have shared purchase summary of various customers for selected high volume products from last month.
@@ -16,6 +20,7 @@ We at our end, have the actual purchase amount for the test dataset, against whi
 
 Where y hat is the predicted value and y is the original value.
 
-Please note :
+## Please note :
+
 Public leaderboard is based on 30% of the test dataset, while 70% of the dataset is used for Private Leaderboard.
 The final results would be declared only on Private Leaderboard
